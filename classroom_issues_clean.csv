@@ -1,0 +1,16 @@
+report_id,timestamp,campus_location,building_name,room_number,reporter_role,issue_description,category,urgency_level,resolution_status,days_to_resolve
+REP-1001,2026-08-12 08:15:00,Main Campus,College of Computing and Information Sciences,CCIS-101,Student,"Ceiling fan is making a loud grinding noise and wobbling, plus the fluorescent light near the board is flickering.",Electrical,High,Resolved,2
+REP-1002,2026-08-12 09:30:00,Main Campus,College of Computing and Information Sciences,CCIS-102,Faculty,Aircon is blowing warm air and leaking water onto the tiled floor near the outlets.,HVAC/Ventilation,Critical,Resolved,1
+REP-1003,2026-08-13 10:45:00,Main Campus,College of Agriculture,CA-204,Student,Three wooden armchairs have broken backrests and loose screws; chalkboard surface is peeling.,Furniture & Fixtures,Medium,Resolved,5
+REP-1004,2026-08-14 13:20:00,Main Campus,College of Education,CED-105,Faculty,Projector HDMI port is damaged and wall outlet has no power.,IT & Audio-Visual,High,Resolved,3
+REP-1005,2026-08-15 14:10:00,Main Campus,College of Engineering,COE-301,Faculty,Faucet at the lab sink is leaking continuously and floor drain is clogged.,Plumbing,High,Resolved,2
+REP-1006,2026-08-18 07:50:00,Main Campus,College of Computing and Information Sciences,CCIS-101,Student,Fluorescent bulb burned out again and wall switch sparks slightly when turned on.,Electrical,Critical,Resolved,1
+REP-1007,2026-08-19 11:05:00,Main Campus,College of Education,CED-108,Student,"Window jalousies are missing two glass blades, allowing rain to splash onto the front row chairs.",Structural/Civil,Medium,Resolved,4
+REP-1008,2026-08-20 15:40:00,Main Campus,College of Education,CED-105,Student,Smart TV screen flickers and Wi-Fi access point in the room keeps disconnecting.,IT & Audio-Visual,Medium,Resolved,3
+REP-1009,2026-08-22 09:00:00,Main Campus,College of Computing and Information Sciences,CCIS-102,Faculty,Aircon dripping water again and electrical outlet nearby tripped the breaker.,HVAC/Ventilation,Critical,Resolved,1
+REP-1010,2026-08-25 10:15:00,Main Campus,College of Agriculture,CA-201,Student,Doorknob is jammed from the inside and ceiling board shows water stains from roof leak.,Structural/Civil,High,Pending,
+REP-1011,2026-08-26 13:00:00,Main Campus,College of Education,CED-102,Faculty,Whiteboard is heavily stained and the eraser tray fell off.,Furniture & Fixtures,Low,Resolved,7
+REP-1012,2026-08-27 16:10:00,Main Campus,College of Engineering,COE-302,Student,Exposed electrical wiring near the back counter and busted exhaust fan.,Electrical,Critical,Resolved,1
+REP-1013,2026-08-28 08:40:00,Main Campus,College of Computing and Information Sciences,CCIS-201,Faculty,Projector mount is loose and VGA/HDMI wall plate is detached.,IT & Audio-Visual,High,In Progress,
+REP-1014,2026-09-01 11:25:00,Main Campus,College of Education,CED-202,Student,Five plastic monobloc chairs are cracked and unsafe to sit on.,Furniture & Fixtures,Low,Pending,
+REP-1015,2026-09-02 14:50:00,Main Campus,College of Agriculture,CA-204,Faculty,"Roof leak above the teacher's podium during heavy rain, wetting the electrical extension cord.",Structural/Civil,Critical,In Progress,
